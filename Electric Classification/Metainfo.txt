@@ -1,0 +1,11 @@
+Name of QuantLet : 'Electric Classification'
+
+Published in : 'Industrial Picture Classification via SVM' 
+
+Description : 'Check the relationship between delta VCRIX and Emoji sentiment.'
+
+Keywords : 'cv, SVM, classification'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Feb 20 2024
